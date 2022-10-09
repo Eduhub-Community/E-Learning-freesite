@@ -1,4 +1,5 @@
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimaqpress.com%2Fwp-content%2Fuploads%2F2021%2F04%2Fonline-learning.jpg&f=1&nofb=1)
+
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--u9O3bUqe--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/12t9r8j7n9ynxbdzhs5p.png)
 
 [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) is a month long event where people are awarded for contributing to open source projects 🙌, and we're joining the party, hosted by [**DigitalOcean**](https://www.digitalocean.com/) for the 8th year in a row. Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 
@@ -12,9 +13,6 @@
 <p><a href="https://www.buymeacoffee.com/sahityaroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7584926589" /></a></p><br><br>
 <p align="left"> <a href="https://www.linkedin.com/in/sahitya-roy/" target="blank">
 
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/72821604/134854638-bf82a21b-06ae-4308-9e44-a4727b52c7d6.jpg"/>
-</p>
 
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="5">Type some Markdown on the left</li>
